@@ -29,7 +29,7 @@ Explore comprehensive grocery sales insights with this **interactive and dynamic
 Check out the **final dashboard** — a fusion of aesthetics and analytics:
 
 
-![Blinkit Dashboard Updated](https://github.com/Bhawnadhaka/Blinkit_excel_DashBoard/blob/main/Screenshot%202025-03-16%20010436.png)
+![Blinkit Dashboard ](https://github.com/Bhawnadhaka/Blinkit_excel_DashBoard/blob/main/Screenshot%202025-03-16%20165945.png)
 
 ---
 

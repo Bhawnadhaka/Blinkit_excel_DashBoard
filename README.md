@@ -126,5 +126,5 @@ Check out the **final dashboard** — a fusion of aesthetics and analytics:
 
 This dashboard transforms raw Blinkit grocery data into a **visually captivating**, **data-driven narrative**. It helps **retailers, analysts, and decision-makers** identify **high-performing products**, **track outlet efficiency**, and **decode customer behavior** — all within a click.
 
-✨ **Dive into the data, uncover the insights, and make informed decisions — faster, smarter, better!**
+
 
